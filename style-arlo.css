@@ -1,0 +1,155 @@
+*{
+
+    margin: 0;
+    padding: 0;
+
+}
+
+
+.sticky_a {
+    background-color: white !important;
+}
+
+#widthcontact {
+    min-width: 150px;
+    display: flex;
+   justify-content: center;
+   align-items: center;
+   font-family: system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';   
+}
+
+.withbutton {
+    min-width: 130px;
+}
+
+#login {
+
+    min-width: 100px;
+}
+
+#hcenter {
+    background-color: #032d60
+}
+
+
+#container1 {
+
+    background-image: url("miniproject-images 2/flying-rabbit.webp");
+    height: 650px;
+    background-size: 85%;
+    background-repeat: no-repeat;
+    background-position: top right;
+
+    
+
+}
+#box-article {
+
+    padding-top: 64px;
+    padding-bottom: 64px;
+}
+
+.cards_container {
+
+    background-image: url("miniproject-images/demos-bg-f.png");
+    height: 1000px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: bottom;
+
+}
+
+
+.section-3 {
+
+    background-image: url("miniproject-images/pb-hp-logos-bg-2.gif");
+    height: 650px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: top right;
+
+}
+
+.section-4 {
+
+    background-image: url("miniproject-images/");
+    height: 579.6px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: top right;
+    background-size: cover;
+}
+
+
+.section-5 {
+
+    background-image: url("miniproject-images/");
+    height: 603.3px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: top right;
+
+}
+
+.section-6 {
+
+    background-image: url("miniproject-images/pb-hp-products-bg-2.gif");
+    background-color:white;
+    height: 1000px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position:bottom;
+
+}
+
+
+.custom-column-section-7 {
+    background-image: url("miniproject-images/contact-us-img.png");
+    object-fit:
+    background-repeat: no-repeat;
+    width: 1280px;
+    height: 467.2px;
+}
+
+@media (max-width:1279px) {
+
+    .nav_a {
+
+        display: none;
+
+    }
+    
+}
+
+
+/* ###### test center ###### */
+
+.test-line, #test-line {
+
+    border: 1px solid red;
+    height: 600px;
+
+}
+
+.img-container {
+ 
+    height: 100vh; /* Adjust the height as needed */
+    height: 500px;
+    width: 500px;
+
+
+  }
+  
+  .centered-image {
+    max-width: 100%;
+    max-height: 100%;
+  }
+
+.tx {
+
+    background-color: red !important;
+    border: 1px solid black;
+    height: 30px;
+    width: 100px;
+    color: pink;
+}
